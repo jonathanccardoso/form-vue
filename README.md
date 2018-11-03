@@ -1,6 +1,6 @@
 # System-Vue
 
-> A Vue.js project
+> Form and API consumption
 
 ## Build Setup
 

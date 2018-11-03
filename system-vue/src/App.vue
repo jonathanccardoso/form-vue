@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <a href="/#/form">Form</a>
+    <a href="/#/apirest">ApiRest</a>
     <img src="./assets/logo.png">
     <router-view/>
   </div>
