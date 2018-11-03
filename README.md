@@ -30,4 +30,4 @@ vue init webpack name-project
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-Link-test (https://github.com/tedirghazali/CodeTube-Vanilla-CSS/blob/master/vue/tutorial/CRUDPouchDB.html) 
+[Link-test](https://github.com/tedirghazali/CodeTube-Vanilla-CSS/blob/master/vue/tutorial/CRUDPouchDB.html) 
